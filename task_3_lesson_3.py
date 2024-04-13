@@ -47,7 +47,7 @@ print(impartire_intreaga)
 # Creează o nouă variabilă numită `number4` și atribuie-i o valoare numerică mare într-un mod literal
 
 # CODUL TĂU VINE MAI JOS:
-number4=1e7
+number4=1e11
 # CODUL TĂU VINE MAI SUS:
 
 # Acum afișează tipul variabilei `number4` folosind funcția `print`
